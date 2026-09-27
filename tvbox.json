@@ -2,7 +2,7 @@
   "spider": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/aw.jar",
   "sites": [
     {
-      "name": "🚨请勿信视频中的广告、二维码！！",
+      "name": "📢请勿信视频中的广告、二维码！！",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
@@ -45,7 +45,7 @@
     },
 
     {
-      "name": "🌮风筝丨AW",
+      "name": "🪁风筝丨AW",
       "key": "AppV7Fz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -55,7 +55,7 @@
       "ext": "AppV7Fz"
     },
     {
-      "name": "🥃细雨丨AW",
+      "name": "🌧️细雨丨AW",
       "key": "AppV7Xy",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -75,7 +75,7 @@
       "ext": "AppV7Zjdr"
     },
     {
-      "name": "⚡柚子丨AW",
+      "name": "🍈柚子丨AW",
       "key": "AppV7Xyz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -85,7 +85,7 @@
       "ext": "AppV7Xyz"
     },
     {
-      "name": "🧀柠檬丨AW",
+      "name": "🍋柠檬丨AW",
       "key": "AppV7Xnm",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -95,7 +95,7 @@
       "ext": "AppV7Xnm"
     },
     {
-      "name": "🖍︎太奇丨AW",
+      "name": "🥥太奇丨AW",
       "key": "AppV7Mtq",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -105,7 +105,7 @@
       "ext": "AppV7Mtq"
     },
     {
-      "name": "🥙零七丨AW",
+      "name": "🥭零七丨AW",
       "key": "AppV7Llq",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -115,7 +115,7 @@
       "ext": "AppV7Llq"
     },
     {
-      "name": "🍔柿子丨AW",
+      "name": "🍅柿子丨AW",
       "key": "AppV7Xsz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -125,7 +125,7 @@
       "ext": "AppV7Xsz"
     },
     {
-      "name": "🍯红日丨AW",
+      "name": "🌅红日丨AW",
       "key": "AppV7Xhr",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -228,7 +228,7 @@
       "changeable": 0
     },
     {
-      "name": " 🥡哔嘀丨AW",
+      "name": "🥡哔嘀丨AW",
       "key": "Bidys",
       "type": 3,
       "api": "csp_BidysAmns",
@@ -316,7 +316,7 @@
       "changeable": 0
     },
     {
-      "name": " 🚚U视丨AW",
+      "name": "🚚U视丨AW",
       "key": "Ysp",
       "type": 3,
       "api": "csp_YspAmns",
@@ -510,7 +510,7 @@
     },
     {
       "key": "华谊",
-      "name": "🍐华谊 • FS",
+      "name": "🌽华谊 • FS",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -531,7 +531,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "🍈瓜子 • FS",
+      "name": "🥒瓜子 • FS",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
@@ -539,7 +539,7 @@
 
     {
       "key": "热播影视",
-      "name": "🍍热播 • FS",
+      "name": "🌶热播 • FS",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
