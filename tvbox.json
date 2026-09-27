@@ -43,53 +43,7 @@
       "filterable": 1,
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
-  {
-      "name": "🍬秋天丨AW",
-      "key": "NewGrV2",
-      "type": 3,
-      "api": "csp_NewGrV2Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "NewGrV2"
-    },
-    {
-      "name": "⭐韩剧丨AW",
-      "key": "Hxq",
-      "type": 3,
-      "api": "csp_HxqAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🚀金牌丨AW",
-      "key": "JinPai",
-      "type": 3,
-      "api": "csp_JinPaiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "name": " 🍉瓜子丨AW",
-      "key": "Guazi",
-      "type": 3,
-      "api": "csp_GuaziAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Guazi"
-    },
-    {
-      "name": "⭐爱看丨AW",
-      "key": "AiBot",
-      "type": 3,
-      "api": "csp_AiBotAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
       "name": "🌮①线丨AW",
       "key": "AppV7Fz",
@@ -190,6 +144,53 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Dsx"
+    },
+      {
+      "name": "🍬秋天丨AW",
+      "key": "NewGrV2",
+      "type": 3,
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "NewGrV2"
+    },
+    {
+      "name": "⭐韩剧丨AW",
+      "key": "Hxq",
+      "type": 3,
+      "api": "csp_HxqAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🚀金牌丨AW",
+      "key": "JinPai",
+      "type": 3,
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": " 🍉瓜子丨AW",
+      "key": "Guazi",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Guazi"
+    },
+    {
+      "name": "⭐爱看丨AW",
+      "key": "AiBot",
+      "type": 3,
+      "api": "csp_AiBotAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "name": " 🍠番薯丨动漫",
