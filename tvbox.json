@@ -12,6 +12,28 @@
       "changeable": 0,
       "ext": "Douban"
     },
+        {
+      "key": "苹果",
+      "name": "🍎苹果 • FS",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "./other/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
+    },
+    
     {
       "name": "🪁风筝丨AW",
       "key": "AppV7Fz",
@@ -423,27 +445,6 @@
         "type": "rect",
         "ratio": 1.433
       }
-    },
-        {
-      "key": "苹果",
-      "name": "🍎苹果 • FS",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "小苹果",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.juechufsh.android.xpg1",
-        "host": "",
-        "site": "./other/app_xpg_android.txt",
-        "version": "1.0.0.3",
-        "decrypt": "0"
-      },
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
     {
       "key": "爱看机器人",
