@@ -13,38 +13,6 @@
       "ext": "Douban"
     },
     {
-      "key": "苹果",
-      "name": "🍎苹果 • FS",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "小苹果",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.juechufsh.android.xpg1",
-        "host": "",
-        "site": "./other/app_xpg_android.txt",
-        "version": "1.0.0.3",
-        "decrypt": "0"
-      },
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
-    },
-    {
-      "key": "爱看机器人",
-      "name": "🍍爱看 • FS",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
-    },
-
-    {
       "name": "🪁风筝丨AW",
       "key": "AppV7Fz",
       "type": 3,
@@ -258,16 +226,6 @@
       "ext": "Libvio"
     },
     {
-      "name": "🥤橘汁丨AW",
-      "key": "Woshinidie",
-      "type": 3,
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/aw1.jar",
-      "api": "csp_Woshinidie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "name": "🎪荐片丨AW",
       "key": "JPian",
       "type": 3,
@@ -465,6 +423,37 @@
         "type": "rect",
         "ratio": 1.433
       }
+    },
+        {
+      "key": "苹果",
+      "name": "🍎苹果 • FS",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "./other/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
+    },
+    {
+      "key": "爱看机器人",
+      "name": "🍍爱看 • FS",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
     {
       "key": "天堂",
@@ -1409,7 +1398,7 @@
   ],
   "lives": [
     {
-      "name": "自动更新源",
+      "name": "自更新直播源",
       "type": 0,
       "url": "https://live.hacks.tools/tv/iptv4.m3u",
       "playerType": 2
@@ -1421,9 +1410,9 @@
       "playerType": 2
     },
      {
-      "name": "裤佬直播源",
+      "name": "天才直播源",
       "type": 0,
-      "url": "https://iptv.445569.xyz/live.m3u",
+      "url": "https://tv.711933.xyz/iptv1.m3uu",
       "playerType": 2
     },
     {
