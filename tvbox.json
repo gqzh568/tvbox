@@ -45,7 +45,7 @@
     },
 
     {
-      "name": "🌮①线丨AW",
+      "name": "🌮风筝丨AW",
       "key": "AppV7Fz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -55,7 +55,7 @@
       "ext": "AppV7Fz"
     },
     {
-      "name": "🥃②线丨AW",
+      "name": "🥃细雨丨AW",
       "key": "AppV7Xy",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -65,7 +65,7 @@
       "ext": "AppV7Xy"
     },
     {
-      "name": "💮③线丨AW",
+      "name": "💮追剧丨AW",
       "key": "AppV7Zjdr",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -75,7 +75,7 @@
       "ext": "AppV7Zjdr"
     },
     {
-      "name": "⚡④线丨AW",
+      "name": "⚡柚子丨AW",
       "key": "AppV7Xyz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -85,7 +85,7 @@
       "ext": "AppV7Xyz"
     },
     {
-      "name": "🧀⑤线丨AW",
+      "name": "🧀柠檬丨AW",
       "key": "AppV7Xnm",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -95,7 +95,7 @@
       "ext": "AppV7Xnm"
     },
     {
-      "name": "🖍︎⑥线丨AW",
+      "name": "🖍︎太奇丨AW",
       "key": "AppV7Mtq",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -105,7 +105,7 @@
       "ext": "AppV7Mtq"
     },
     {
-      "name": "🥙⑦线丨AW",
+      "name": "🥙零七丨AW",
       "key": "AppV7Llq",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -115,7 +115,7 @@
       "ext": "AppV7Llq"
     },
     {
-      "name": "🍔⑧线丨AW",
+      "name": "🍔柿子丨AW",
       "key": "AppV7Xsz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -125,7 +125,7 @@
       "ext": "AppV7Xsz"
     },
     {
-      "name": "🍯⑨线丨AW",
+      "name": "🍯红日丨AW",
       "key": "AppV7Xhr",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -134,7 +134,6 @@
       "changeable": 0,
       "ext": "AppV7Xhr"
     },
-
     {
       "name": "🚤师兄丨AW",
       "key": "AppV7Dsx",
@@ -145,7 +144,7 @@
       "changeable": 0,
       "ext": "AppV7Dsx"
     },
-      {
+  {
       "name": "🍬秋天丨AW",
       "key": "NewGrV2",
       "type": 3,
@@ -488,20 +487,24 @@
       },
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
-
-      {
-      "key": "剧圈99",
-      "name": "🥯剧圈 • FS",
+    {
+      "key": "薯条",
+      "name": "🍟薯条 • FS",
       "type": 3,
-      "api": "csp_App99",
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
-        "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
-        "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+        "appName": "薯条影视",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.st.standroid",
+        "host": "",
+        "site": "./other/app_dyttandroid.txt",
+        "version": "5.0.0.1",
+        "decrypt": "0"
       },
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
@@ -526,7 +529,15 @@
       },
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
-        {
+    {
+      "key": "瓜子影视",
+      "name": "🍈瓜子 • FS",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
+    },
+
+    {
       "key": "热播影视",
       "name": "🍍热播 • FS",
       "type": 3,
@@ -539,35 +550,7 @@
       },
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
-      {
-      "key": "薯条",
-      "name": "🍟薯条 • FS",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "薯条影视",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.st.standroid",
-        "host": "",
-        "site": "./other/app_dyttandroid.txt",
-        "version": "5.0.0.1",
-        "decrypt": "0"
-      },
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
-    },
 
-    {
-      "key": "瓜子影视",
-      "name": "🍈瓜子 • FS",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
-    },
     {
       "key": "飞飞",
       "name": "🌈飞飞 • FS",
@@ -577,6 +560,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
+    },
+    {
+      "key": "剧圈99",
+      "name": "🥯剧圈 • FS",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      },
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
     {
