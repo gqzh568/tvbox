@@ -1397,14 +1397,20 @@
     }
   ],
   "lives": [
-    {
+   {
       "name": "自动更新直播源1",
+      "type": 0,
+      "url": "https://iptv.711933.xyz/output/result.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "自动更新直播源2",
       "type": 0,
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "playerType": 2
     },
     {
-      "name": "自动更新直播源2",
+      "name": "自动更新直播源3",
       "type": 0,
       "url": "https://live.hacks.tools/tv/iptv4.m3u",
       "playerType": 2
