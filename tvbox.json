@@ -1398,7 +1398,13 @@
   ],
   "lives": [
     {
-      "name": "自更新直播源",
+      "name": "自动更新直播源1",
+      "type": 0,
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "playerType": 2
+    },
+    {
+      "name": "自动更新直播源2",
       "type": 0,
       "url": "https://live.hacks.tools/tv/iptv4.m3u",
       "playerType": 2
@@ -1422,23 +1428,9 @@
       "playerType": 2
     },
     {
-      "name": "范明明（需开启V6网络）",
+      "name": "Guovin直播源",
       "type": 0,
-      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "develop202",
-      "type": 0,
-      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
       "playerType": 2
     },
     {
