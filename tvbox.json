@@ -1400,7 +1400,7 @@
    {
       "name": "自动更新直播源",
       "type": 0,
-      "url": "https://guovin.github.io/iptv-api/result.m3u",
+      "url": "https://iptv.711933.xyz/result.m3u",
       "playerType": 2
     },
      {
