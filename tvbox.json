@@ -44,6 +44,54 @@
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
     {
+      "key": "zhiqiu",
+      "name": "🎶听风┆MY",
+      "type": 3,
+      "api": "csp_zhiqiu",
+      "searchable": 1,
+      "ext": "http://www.y456y.com/api//2026/zhiqiu.php",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "素笺",
+      "name": "📜素笺┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/niulai.php",
+        "site": "sujian"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "玉阶",
+      "name": "☘️玉阶┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/niulai.php",
+        "site": "yujie"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "南枝",
+      "name": "🌱南枝┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/appun.php",
+        "playname": "nz"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
       "name": "🪁风筝丨AW",
       "key": "AppV7Fz",
       "type": 3,
@@ -277,7 +325,7 @@
       "ext": "Rbys"
     },
     {
-      "name": "🚗杜北丨AW",
+      "name": "🚗独播丨AW",
       "key": "Dubk",
       "type": 3,
       "api": "csp_DubkAmns",
@@ -642,13 +690,6 @@
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
     {
-      "key": "独播影视",
-      "name": "☕独播 • FS",
-      "type": 3,
-      "api": "csp_Duboku",
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
-    },
-    {
       "key": "骚火影视",
       "name": "🥛骚火 • FS",
       "type": 3,
@@ -715,6 +756,81 @@
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/nf.jar"
+    },
+    {
+      "key": "沐辞",
+      "name": "🍃沐辞┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/appun.php",
+        "playname": "mc"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "锦书",
+      "name": "✉️锦书┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/niulai.php",
+        "site": "jinshu"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+   {
+      "key": "竹隐",
+      "name": "🎋竹隐┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/niulai.php",
+        "site": "zhuyin"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "孟葭",
+      "name": "🌿孟葭┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/appun.php",
+        "playname": "mj"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "松庭",
+      "name": "🌲松庭┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/niulai.php",
+        "site": "songting"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "观澜",
+      "name": "🌼观澜┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/php/appun.php",
+        "playname": "gl"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
     },
     {
       "name": "🛴推送丨播放",
