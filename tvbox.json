@@ -61,7 +61,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
+        "php": "./php/niulai.php",
         "site": "sujian"
       },
       "jar": "./jar/moyu.jar"
@@ -86,13 +86,13 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
+        "php": "./php/appun.php",
         "playname": "nz"
       },
       "jar": "./jar/moyu.jar"
     },
     {
-      "name": "🪁风筝丨AW",
+      "name": "🦋风筝丨AW",
       "key": "AppV7Fz",
       "type": 3,
       "api": "csp_AppV7Amns",
