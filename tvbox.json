@@ -45,7 +45,7 @@
     },
     {
       "key": "zhiqiu",
-      "name": "🎶听风┆MY",
+      "name": "🎶知秋┆MY",
       "type": 3,
       "api": "csp_zhiqiu",
       "searchable": 1,
@@ -86,7 +86,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "nz"
       },
       "jar": "./jar/moyu.jar"
@@ -763,7 +763,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "mc"
       },
       "jar": "./jar/moyu.jar"
@@ -777,7 +777,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "jinshu"
       },
       "jar": "./jar/moyu.jar"
@@ -791,7 +791,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "zhuyin"
       },
       "jar": "./jar/moyu.jar"
@@ -802,7 +802,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "mj"
       },
       "jar": "./jar/moyu.jar"
@@ -816,7 +816,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "songting"
       },
       "jar": "./jar/moyu.jar"
@@ -827,7 +827,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "gl"
       },
       "jar": "./jar/moyu.jar"
