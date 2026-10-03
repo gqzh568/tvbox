@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aw.jar",
+  "spider": "./jar/tc.jar",
   "sites": [
     {
       "name": "📢请勿信视频中的广告、二维码！！",
@@ -14,7 +14,7 @@
     },
         {
       "key": "苹果",
-      "name": "🍎苹果 • FS",
+      "name": "🍎苹果",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -35,7 +35,7 @@
     },
         {
       "key": "爱看机器人",
-      "name": "🍍爱看 • FS",
+      "name": "🍍爱看",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -45,7 +45,7 @@
     },
     {
       "key": "zhiqiu",
-      "name": "🎶知秋┆MY",
+      "name": "🎶知秋",
       "type": 3,
       "api": "csp_zhiqiu",
       "searchable": 1,
@@ -54,7 +54,7 @@
     },
     {
       "key": "素笺",
-      "name": "📜素笺┆MY",
+      "name": "📜素笺",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "玉阶",
-      "name": "☘️玉阶┆MY",
+      "name": "☘️玉阶",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -82,7 +82,7 @@
     },
     {
       "key": "南枝",
-      "name": "🌱南枝┆MY",
+      "name": "🌱南枝",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -92,7 +92,7 @@
       "jar": "./jar/moyu.jar"
     },
     {
-      "name": "🍬风筝丨AW",
+      "name": "🍬风筝",
       "key": "AppV7Fz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -102,7 +102,7 @@
       "ext": "AppV7Fz"
     },
     {
-      "name": "🌧️细雨丨AW",
+      "name": "🌧️细雨",
       "key": "AppV7Xy",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -112,7 +112,7 @@
       "ext": "AppV7Xy"
     },
     {
-      "name": "💮追剧丨AW",
+      "name": "💮追剧",
       "key": "AppV7Zjdr",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -122,7 +122,7 @@
       "ext": "AppV7Zjdr"
     },
     {
-      "name": "🍈柚子丨AW",
+      "name": "🍈柚子",
       "key": "AppV7Xyz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -132,7 +132,7 @@
       "ext": "AppV7Xyz"
     },
     {
-      "name": "🍋柠檬丨AW",
+      "name": "🍋柠檬",
       "key": "AppV7Xnm",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -142,7 +142,7 @@
       "ext": "AppV7Xnm"
     },
     {
-      "name": "🥥太奇丨AW",
+      "name": "🥥太奇",
       "key": "AppV7Mtq",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -152,7 +152,7 @@
       "ext": "AppV7Mtq"
     },
     {
-      "name": "🥭零七丨AW",
+      "name": "🥭零七",
       "key": "AppV7Llq",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -162,7 +162,7 @@
       "ext": "AppV7Llq"
     },
     {
-      "name": "🍅柿子丨AW",
+      "name": "🍅柿子",
       "key": "AppV7Xsz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -172,7 +172,7 @@
       "ext": "AppV7Xsz"
     },
     {
-      "name": "🌅红日丨AW",
+      "name": "🌅红日",
       "key": "AppV7Xhr",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -182,7 +182,7 @@
       "ext": "AppV7Xhr"
     },
     {
-      "name": "🚤师兄丨AW",
+      "name": "🚤师兄",
       "key": "AppV7Dsx",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -192,7 +192,7 @@
       "ext": "AppV7Dsx"
     },
     {
-      "name": "⭐韩剧丨AW",
+      "name": "⭐韩剧",
       "key": "Hxq",
       "type": 3,
       "api": "csp_HxqAmns",
@@ -201,7 +201,7 @@
       "changeable": 0
     },
     {
-      "name": "🚀金牌丨AW",
+      "name": "🚀金牌",
       "key": "JinPai",
       "type": 3,
       "api": "csp_JinPaiAmns",
@@ -210,7 +210,7 @@
       "changeable": 1
     },
     {
-      "name": " 🍉瓜子丨AW",
+      "name": " 🍉瓜子",
       "key": "Guazi",
       "type": 3,
       "api": "csp_GuaziAmns",
@@ -220,7 +220,7 @@
       "ext": "Guazi"
     },
     {
-      "name": "⭐爱看丨AW",
+      "name": "⭐爱看",
       "key": "AiBot",
       "type": 3,
       "api": "csp_AiBotAmns",
@@ -256,7 +256,7 @@
       "changeable": 0
     },
     {
-      "name": "🏜魔都丨AW",
+      "name": "🏜魔都",
       "key": "DMmodu",
       "type": 3,
       "api": "csp_DMmoduAmns",
@@ -265,7 +265,7 @@
       "changeable": 0
     },
     {
-      "name": "🥡哔嘀丨AW",
+      "name": "🥡哔嘀",
       "key": "Bidys",
       "type": 3,
       "api": "csp_BidysAmns",
@@ -275,7 +275,7 @@
       "ext": "Bidys"
     },
     {
-      "name": "🥣厂长丨AW",
+      "name": "🥣厂长",
       "key": "Czzy",
       "type": 3,
       "api": "csp_CzzyAmns",
@@ -285,7 +285,7 @@
       "ext": "Czzy"
     },
     {
-      "name": "🔗LBV丨AW",
+      "name": "🔗LBV",
       "key": "Libvio",
       "type": 3,
       "api": "csp_LibvioAmns",
@@ -295,7 +295,7 @@
       "ext": "Libvio"
     },
     {
-      "name": "🎪荐片丨AW",
+      "name": "🎪荐片",
       "key": "JPian",
       "type": 3,
       "api": "csp_JPianAmns",
@@ -305,7 +305,7 @@
       "ext": "JPian"
     },
     {
-      "name": " 🔥热播丨AW",
+      "name": " 🔥热播",
       "key": "Rbys",
       "type": 3,
       "api": "csp_RbysAmns",
@@ -315,7 +315,7 @@
       "ext": "Rbys"
     },
     {
-      "name": "🚗独播丨AW",
+      "name": "🚗独播",
       "key": "Dubk",
       "type": 3,
       "api": "csp_DubkAmns",
@@ -325,7 +325,7 @@
       "ext": "Dubk"
     },
     {
-      "name": "🚕伊外丨AW",
+      "name": "🚕伊外",
       "key": "YIys",
       "type": 3,
       "api": "csp_YIysAmns",
@@ -334,7 +334,7 @@
       "changeable": 0
     },
     {
-      "name": "🚛爱瓜丨AW",
+      "name": "🚛爱瓜",
       "key": "AiGua",
       "type": 3,
       "api": "csp_AiGuaAmns",
@@ -343,7 +343,7 @@
       "changeable": 0
     },
     {
-      "name": "🚚U视丨AW",
+      "name": "🚚U视",
       "key": "Ysp",
       "type": 3,
       "api": "csp_YspAmns",
@@ -352,7 +352,7 @@
       "changeable": 0
     },
     {
-      "name": "🚐欧乐丨AW",
+      "name": "🚐欧乐",
       "key": "Olyy",
       "type": 3,
       "api": "csp_OlyyAmns",
@@ -361,7 +361,7 @@
       "changeable": 0
     },
     {
-      "name": "🛵壹帆丨AW",
+      "name": "🛵壹帆",
       "key": "Aiyf",
       "type": 3,
       "api": "csp_AiyfAmns",
@@ -370,7 +370,7 @@
       "changeable": 0
     },
     {
-      "name": "🚎瓜子丨体育",
+      "name": "🚎瓜子体育",
       "key": "GuaziLive",
       "type": 3,
       "api": "csp_GuaziLiveAmns",
@@ -380,7 +380,7 @@
       "ext": "GuaziLive"
     },
     {
-      "name": "🚘飞球丨体育",
+      "name": "🚘飞球体育",
       "key": "FeiqLive",
       "type": 3,
       "api": "csp_FeiqLiveAmns",
@@ -389,7 +389,7 @@
       "changeable": 0
     },
     {
-      "name": "🚖88丨体育",
+      "name": "🚖88体育",
       "key": "BbkqLive",
       "type": 3,
       "api": "csp_BbkqLiveAmns",
@@ -399,7 +399,7 @@
       "ext": "BbkqLive"
     },
     {
-      "name": "🏆咖啡丨体育",
+      "name": "🏆咖啡体育",
       "key": "KafLive",
       "type": 3,
       "api": "csp_KafLiveAmns",
@@ -408,7 +408,7 @@
       "changeable": 0
     },
     {
-      "name": "🎉戏曲丨Bili",
+      "name": "🎉戏曲",
       "key": "BiliXiqu",
       "type": 3,
       "api": "csp_BiliAmns",
@@ -425,7 +425,7 @@
       }
     },
     {
-      "name": "📚少儿丨教育",
+      "name": "📚少儿教育",
       "key": "BiliSer",
       "type": 3,
       "api": "csp_BiliAmns",
@@ -442,7 +442,7 @@
       }
     },
     {
-      "name": "📚小学丨教育",
+      "name": "📚小学教育",
       "key": "BiliXxue",
       "type": 3,
       "api": "csp_BiliAmns",
@@ -459,7 +459,7 @@
       }
     },
     {
-      "name": "📚初中丨教育",
+      "name": "📚初中教育",
       "key": "BiliCzong",
       "type": 3,
       "api": "csp_BiliAmns",
@@ -476,14 +476,13 @@
       }
     },
     {
-      "name": "📚高中丨教育",
+      "name": "📚高中教育",
       "key": "BiliGzong",
       "type": 3,
       "api": "csp_BiliAmns",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "_note": "嗷呜的http://www.英格里希嗷呜.top/tv或https://9763.kstore.vip/aowu.json或http://wwww.2525666.xyz/tv的内容",
       "ext": {
         "json": "./json/gaozhong.gz",
         "cookie": ""
@@ -495,7 +494,7 @@
     },
     {
       "key": "天堂",
-      "name": "🍝天堂 • FS",
+      "name": "🍝天堂",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -516,7 +515,7 @@
     },
     {
       "key": "薯条",
-      "name": "🍟薯条 • FS",
+      "name": "🍟薯条",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -537,7 +536,7 @@
     },
     {
       "key": "华谊",
-      "name": "🌽华谊 • FS",
+      "name": "🌽华谊",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -558,7 +557,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "🥒瓜子 • FS",
+      "name": "🥒瓜子",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "./jar/fish.jar"
@@ -566,7 +565,7 @@
 
     {
       "key": "热播影视",
-      "name": "🌶热播 • FS",
+      "name": "🌶热播",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -580,7 +579,7 @@
 
     {
       "key": "飞飞",
-      "name": "🌈飞飞 • FS",
+      "name": "🌈飞飞",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -591,7 +590,7 @@
     },
     {
       "key": "剧圈99",
-      "name": "🥯剧圈 • FS",
+      "name": "🥯剧圈",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -607,7 +606,7 @@
     },
     {
       "key": "茉莉",
-      "name": "🍂茉莉 • FS",
+      "name": "🍂茉莉",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -621,7 +620,7 @@
     },
     {
       "key": "永乐APP",
-      "name": "🌺永乐 • FS",
+      "name": "🌺永乐",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -636,14 +635,14 @@
 
     {
       "key": "飞娱APP",
-      "name": "🥕飞娱 • FS",
+      "name": "🥕飞娱",
       "type": 3,
       "api": "csp_Feiyu",
       "jar": "./jar/fish.jar"
     },
     {
       "key": "王子",
-      "name": "🥧王子 • FS",
+      "name": "🥧王子",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -657,7 +656,7 @@
     },
     {
       "key": "魔方",
-      "name": "🍰魔方 • FS",
+      "name": "🍰魔方",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -671,7 +670,7 @@
     },
     {
       "key": "一起影视",
-      "name": "🥂一起 • FS",
+      "name": "🥂一起",
       "type": 3,
       "api": "csp_AppYQK",
       "searchable": 1,
@@ -681,7 +680,7 @@
     },
     {
       "key": "骚火影视",
-      "name": "🥛骚火 • FS",
+      "name": "🥛骚火",
       "type": 3,
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us$$$https://shdy5.us",
@@ -689,17 +688,16 @@
     },
     {
       "key": "三六零",
-      "name": "🍭三六｜FS",
+      "name": "🍭三六",
       "type": 3,
       "api": "csp_SP360",
       "jar": "./jar/fish.jar"
     },
     {
       "key": "瓜子体育",
-      "name": "🥔瓜子体育 • FS",
+      "name": "🥔瓜子体育",
       "type": 3,
       "api": "csp_GuaziTY",
-        "_note": "fish的https://cnb.cool/fish2035/xs/-/git/raw/main/api.json内容",
       "style": {
         "type": "list"
       },
@@ -707,7 +705,7 @@
     },
     {
       "key": "天天",
-      "name": "⛅天天 : NF",
+      "name": "⛅天天",
       "type": 3,
       "api": "csp_TTian",
       "searchable": 1,
@@ -718,7 +716,7 @@
     },
     {
       "key": "追剧吧",
-      "name": "🎾追剧 : NF",
+      "name": "🎾追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -733,7 +731,7 @@
     },
     {
       "key": "半日",
-      "name": "🍽半日 : NF",
+      "name": "🍽半日",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -749,7 +747,7 @@
     },
     {
       "key": "沐辞",
-      "name": "🍃沐辞┆MY",
+      "name": "🍃沐辞",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -760,7 +758,7 @@
     },
     {
       "key": "锦书",
-      "name": "✉️锦书┆MY",
+      "name": "✉️锦书",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -774,7 +772,7 @@
     },
    {
       "key": "竹隐",
-      "name": "🎋竹隐┆MY",
+      "name": "🎋竹隐",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -788,7 +786,7 @@
     },
     {
       "key": "孟葭",
-      "name": "🌿孟葭┆MY",
+      "name": "🌿孟葭",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -799,7 +797,7 @@
     },
     {
       "key": "松庭",
-      "name": "🌲松庭┆MY",
+      "name": "🌲松庭",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -813,7 +811,7 @@
     },
     {
       "key": "观澜",
-      "name": "🌼观澜┆MY",
+      "name": "🌼观澜",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -823,7 +821,7 @@
       "jar": "./jar/moyu.jar"
     },
     {
-      "name": "🛴推送丨播放",
+      "name": "🛴推送",
       "key": "push_agent",
       "type": 3,
       "api": "csp_PushAmns",
