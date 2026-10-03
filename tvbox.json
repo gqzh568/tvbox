@@ -50,7 +50,7 @@
       "api": "csp_zhiqiu",
       "searchable": 1,
       "ext": "http://www.y456y.com/api//2026/zhiqiu.php",
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "key": "素笺",
@@ -64,7 +64,7 @@
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "sujian"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "key": "玉阶",
@@ -78,7 +78,7 @@
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "yujie"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "key": "南枝",
@@ -89,7 +89,7 @@
         "php": "https://max.moyu666666.top/appun.php",
         "playname": "nz"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "name": "🍬风筝",
@@ -754,7 +754,7 @@
         "php": "https://max.moyu666666.top/appun.php",
         "playname": "mc"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "key": "锦书",
@@ -768,7 +768,7 @@
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "jinshu"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
    {
       "key": "竹隐",
@@ -782,7 +782,7 @@
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "zhuyin"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "key": "孟葭",
@@ -793,7 +793,7 @@
         "php": "https://max.moyu666666.top/appun.php",
         "playname": "mj"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "key": "松庭",
@@ -807,7 +807,7 @@
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "songting"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "key": "观澜",
@@ -818,7 +818,7 @@
         "php": "https://max.moyu666666.top/appun.php",
         "playname": "gl"
       },
-      "jar": "./jar/moyu.jar"
+      "jar": "./jar/my.jar"
     },
     {
       "name": "🛴推送",
