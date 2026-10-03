@@ -61,7 +61,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "sujian"
       },
       "jar": "./jar/moyu.jar"
@@ -75,7 +75,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "yujie"
       },
       "jar": "./jar/moyu.jar"
@@ -86,13 +86,13 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "nz"
       },
       "jar": "./jar/moyu.jar"
     },
     {
-      "name": "🦋风筝丨AW",
+      "name": "🍬风筝丨AW",
       "key": "AppV7Fz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -190,16 +190,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Dsx"
-    },
-  {
-      "name": "🍬秋天丨AW",
-      "key": "NewGrV2",
-      "type": 3,
-      "api": "csp_NewGrV2Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "NewGrV2"
     },
     {
       "name": "⭐韩剧丨AW",
